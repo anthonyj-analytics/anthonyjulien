@@ -6,7 +6,7 @@ title: Home
 # Anthony Julien
 
 Data Analyst & GIS Specialist  
-Data Analytics • SQL • Python • Power BI • GIS • Data storytelling
+Data Analytics | SQL • Python • Power BI • GIS | Data storytelling
 
 ## Selected projects
 
