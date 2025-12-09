@@ -1,3 +1,10 @@
 title: Anthony Julien
-description: Data Analytics • SQL • Python • Power BI • GIS • Data storytelling
+description: |
+  Anthony Julien
+  Data Analytics | SQL • Python • Power BI • GIS | Data storytelling
 theme: jekyll-theme-cayman
+
+show_downloads: false
+
+github:
+  is_project_page: false
