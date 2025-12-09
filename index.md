@@ -1,13 +1,9 @@
 ---
 layout: default
-title: My Portfolio
+title: ANTHONY JULIEN
 ---
 
-# Anthony Julien
-
-Data Analytics | SQL • Python • Power BI • GIS | Data storytelling
-
-Turning complex data into clear, reliable business insights.
+# Turning complex data into clear, reliable business insights.
 
 ---
 
