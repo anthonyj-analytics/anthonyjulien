@@ -1,1 +1,1 @@
-https://anthonyj-analytics.github.io/portfolio_home/
+https://anthonyj-analytics.github.io/portfolio/
